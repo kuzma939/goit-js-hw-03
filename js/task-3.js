@@ -1,4 +1,3 @@
-
 function filterArray(numbers, value) {
     let res = []
     for(let i = 0; i < numbers.length; i++) {
